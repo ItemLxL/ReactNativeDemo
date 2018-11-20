@@ -3,4 +3,5 @@
 
 # 运行
 > npm install || yarn add
+
 > react-native run-android ||react-native run-ios
